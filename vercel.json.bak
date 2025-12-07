@@ -1,0 +1,10 @@
+﻿{
+  "buildCommand": "cd Frontend && npm install && npm run build",
+  "outputDirectory": "Frontend/.next",
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://shreyMEDHA.vercel.app/api/:path*"
+    }
+  ]
+}
