@@ -1,4 +1,4 @@
-# Smart Content Studio
+# ReelyAI:Smart Content Studio
 
 ## Project Description
 Reely AI is an AI-powered content creation platform that helps users generate, refine, and manage content efficiently. The application leverages Google's Gemini API to provide various AI tools including text summarization, idea generation, content refinement, and an AI chatbot assistant.
